@@ -1,0 +1,9 @@
+.title {
+  background-color: rgb(36, 35, 35);
+  border: 1px gray solid;
+  border-radius: 10px;
+  font-size: 20px;
+  letter-spacing: 4px;
+  margin: 50px;
+  padding: 5px;
+}

@@ -1,3 +1,12 @@
-.App {
+@import url('https://fonts.googleapis.com/css2?family=Twinkle+Star&display=swap') ;
+
+body {
+  background-image: url('./images/background.png');
+  background-size: cover;
+  box-sizing: border-box;
+  color: white;
+  font-family: Twinkle Star , cursive;
+  margin: 0;
   text-align: center;
 }
+

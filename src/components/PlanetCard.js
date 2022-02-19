@@ -7,7 +7,7 @@ class PlanetCard extends Component {
     return (
       <div data-testid="planet-card">
         <img src={ planetImage } alt={ `Planeta ${planetName}` } />
-        <p data-testid="planet-name">{ planetName }</p>
+        <p data-testid="planet-name"><strong>{ planetName }</strong></p>
       </div>
     );
   }
